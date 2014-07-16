@@ -5,3 +5,4 @@ void main()
  printf("Hiiiii");
  getch();
 } 
+THIS IS SAMPLE
